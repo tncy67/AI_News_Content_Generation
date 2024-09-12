@@ -128,4 +128,9 @@ This project highlights the potential of AI-driven tools and services to automat
 
 Feel free to explore the blog where the content was posted automatically: https://ainewsgenbot.blogspot.com/.
 
+
+# Added o1-preview
+## UPDATE
+To test the capabilities of o1-preview, that's been released today, I passed the same initial prompt to it and get the result in generate_by_o1.py file.
+
 Even this readme is created by AI :).
